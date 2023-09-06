@@ -10,6 +10,9 @@ and Christopher J. Ehrhardt
 Currently available from bioRxiv:
 https://www.biorxiv.org/content/10.1101/2023.04.19.537512v1
 
+Data is available in the file:
+FilteredContactCellFeatureValues.csv
+
 Workflow for TSD Publication Scripts
 
 1. 1_ContactCellFeatures_ForPub.R
